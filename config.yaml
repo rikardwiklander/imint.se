@@ -1,0 +1,7 @@
+BaseURL: "http://imintsystems.se"
+languageCode: "en-us"
+title: "Imint"
+blackfriday:
+  extensions:
+    - hardLineBreak
+MetaDataFormat: "yaml"
