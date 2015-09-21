@@ -1,0 +1,9 @@
+body > header {
+	background-color: white;
+}
+body {
+	background-color: #d8dfe5;
+}
+body > main > section > article {
+	background-color: #dfe5e9
+}
