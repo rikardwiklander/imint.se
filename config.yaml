@@ -1,4 +1,4 @@
-BaseURL: "http://imint.se"
+BaseURL: "https://imintsystems.github.io/imint.se/"
 languageCode: "en-us"
 title: "Imint"
 blackfriday:
