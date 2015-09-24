@@ -1,16 +1,16 @@
 ---
 date: 2015-09-22T11:27:34+02:00
-title: "Management"
+title: 
 menu:
   main:
     name: "Management"
-    parent: about
+    parent: "about"
     URL: /imint.se/about/management
     weight: 19
 ---
 
 # Management and Board
-{{<img src="img/about/management/imint_management.jpg" class="halfwidth floatright">}}
+{{<img src="img/about/management/imint_management.jpg" class="small-image floatright">}}
 [CEO Andreas Lifvendahl and CTO Simon Mika] CEO Andreas Lifvendahl and CTO Simon Mika
 
 

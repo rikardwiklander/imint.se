@@ -1,13 +1,12 @@
 ---
-date: 2015-09-22T11:27:34+02:00
+date: 2015-09-24
 title: "Board and Advisor Bio's"
 menu:
   main:
     name: "Board and Advisor Bio's"
-    parent: "about"
-    weight: 30
+    parent: "Management"
+    weight: 50
 ---
-
 
 ## Gösta Franzén
 

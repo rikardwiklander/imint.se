@@ -5,7 +5,7 @@ menu:
   main:
     name: "about"
     URL: /imint.se/about/about
-    weight: 30
+    weight: 50
 ---
 # From Eyes in the Sky
 
