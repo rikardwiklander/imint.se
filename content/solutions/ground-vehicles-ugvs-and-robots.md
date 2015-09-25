@@ -11,7 +11,7 @@ menu:
 
 {{<img src="img/solutions/ground-vehicles-ugvs-and-robots/too long file name.jpg" class="small-image floatright">}}A remote controlled robot (or unmanned ground vehicle, UGV) is making its way to defuse and dispose a suspected bomb/eod. Vision is impaired due to robot vibrations, smoke and dust, making the delicate task more daunting. The same visibility challenges are found in other UGV or ROV (remotely operated vehicle) missions, such as robot search and rescue, where motion shakiness, bad weather, artificial illumination and similar factors reduce the robot operator's abilities to carry out the task.
 
-[Vidview](Vidview "Vidview") is ideal for using as the video viewer in an operator panel or console for unmanned ground vehicles and ground robots. Vidview provides a number of real-time vision enhancement and video analytics functions through the underlying live video [Vidhance](Vidhance "Vidhance") technology<!--more-->, meeting these typical challenges for a ground robot system:
+[Vidview](/imint.se/products/vidview/vidview "Vidview") is ideal for using as the video viewer in an operator panel or console for unmanned ground vehicles and ground robots. Vidview provides a number of real-time vision enhancement and video analytics functions through the underlying live video [Vidhance](http://vidhance.com "Vidhance") technology<!--more-->, meeting these typical challenges for a ground robot system:
 
 - Harsh filming conditions.
 - Real-time, low latency needs for operator-in-the-loop
@@ -35,10 +35,10 @@ Vidview also provides useful video analytics functions, such as object tracking.
 
 # More Than Just Improved Vision
 
-Vidview also enables creation of text and graphic overlays, including those responding to user interaction. Vidview can be delivered with a SDK (Software Development Kit) to enable smooth integration into a host application. Different levels of integration is possible, from tight through development in a .NET environment, to providing Active X COM-interfaces, or simply by remote control of a Vidview application through TCP/IP. Integration of Vidview into a host application, such as an UGV operator console, is made easy through the [Vidview SDK](Vidview SDK "Vidview SDK") (Software Development Kit).
+Vidview also enables creation of text and graphic overlays, including those responding to user interaction. Vidview can be delivered with a SDK (Software Development Kit) to enable smooth integration into a host application. Different levels of integration is possible, from tight through development in a .NET environment, to providing Active X COM-interfaces, or simply by remote control of a Vidview application through TCP/IP. Integration of Vidview into a host application, such as an UGV operator console, is made easy through the [Vidview SDK](/imint.se/vidview/vidview-sdk "Vidview SDK") (Software Development Kit).
 
 # Sounds Interesting?
 
-Find out more on [Vidview](Vidview "Vidview") and the [Vidhance](Vidhance "Vidhance") technology.
+Find out more on [Vidview](/imint.se/products/vidview/vidview "Vidview") and the [Vidhance](http://vidhance.com "Vidhance") technology.
 
-You are very welcome to [contact us](Contact us "Contact") for further questions, or for the opportunity to test drive Vidview. We encourage you to fill in our [evaluation request form](Evaluation Request Form "Evaluation Request") to get going.
+You are very welcome to [contact us](/imint.se/about/contact "Contact") for further questions, or for the opportunity to test drive Vidview. We encourage you to fill in our [evaluation request form](/imint.se/form/evaluation-request "Evaluation Request") to get going.

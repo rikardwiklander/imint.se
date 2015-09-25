@@ -11,7 +11,7 @@ menu:
 
 Imint provides software solutions for real-time video enhancement and analysis, supporting human perception of time critical events.
 
-[Our products](/products "Products") use the efficient [Vidhance](http://imint.se/technology/Vidhance "Vidhance") live video enhancement technology, with capabilities such as:
+[Our products](/imint.se/products "Products") use the efficient [Vidhance](http://vidhance.com "Vidhance") live video enhancement technology, with capabilities such as:
 
 - Rotational and planar video stabilization
 - Scene adaptive contrast optimization
@@ -23,6 +23,6 @@ Our [solutions](http://imint.se/solutions "Solutions") enhance full motion video
 
 Our dedication is to supply technology to support human perception and decision making, while using hardware platforms more efficiently, to increase safety, mission efficiency and viewing pleasure. In addition to the software products we provide, we offer extensive [services](http://imint.se/services "Services"). Welcome to find out more about Imint.
 
->Vidhance ftw
+>EXAMPLE QUOTE
 
-{{<cite "Frederic Lardinois, TechCrunch, January 2015">}}
+{{<cite "Name Surname, Magazine, January 2015">}}

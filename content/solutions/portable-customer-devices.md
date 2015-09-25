@@ -20,4 +20,4 @@ Another recent experiment conducted by Imint showed that applying Vidhance stabi
 
 {{<img src="img/solutions/portable-consumer-devices/compression_diagram.png" class="small-image floatright">}}Applying Vidhance stabilization prior to, or as part of, encoding would thus decrease file sizes and bandwidth needs, further increasing the usefulness and commercial value.
 
-Learn more about [Vidhance](Vidhance "Vidhance") or [contact us](/imint.se/about/contact "contact") for more information.
+Learn more about [Vidhance](http://vidhance.com "Vidhance") or [contact us](/imint.se/about/contact "contact") for more information.

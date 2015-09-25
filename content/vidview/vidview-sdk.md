@@ -1,6 +1,11 @@
 ---
 date: 2015-09-24
 title: "Vidview SDK"
+menu:
+  main:
+    name: Vidview SDK
+    parent: Vidview
+    weight: 20
 ---
 
 
@@ -14,7 +19,7 @@ For those who want to achieve a tighter integration, the Vidview SDK is needed. 
 
 Currently, the Vidview SDK is tailored for .NET development environments, and the primary programming language used is C#. However, there are a number of ways to bring Vidview into a host application that is not .NET centric. For instance, a Vidview application can be brought into another application by COM interfaces or docking windows. Vidview can also be controlled over TCP/IP, so that a host application can treat the Vidview video viewer as a remote slave, but achieving the full sense of integration from a user perspective.
 
-{{<img src="img/vidview/vw-sdk-screenshot-web.png" class="">}}
+{{<img src="img/vidview/vw-sdk-screenshot-web.png" class="small-image floatright">}}
 
 The Vidview SDK is a comprehensive set of software (both source and binary code), examples, utilities and documentation. As an example, a simple video viewer example project is included, which allow a software developer to swiftly experiment with functions like:
 
@@ -41,4 +46,4 @@ Given the powerful Vidhance algorithm package, a software engineer would conclud
 
 ## Contact us
 
-Vidview SDK is made available in different licensing packages, to fit team size, project scope, and end systems. [Sign up for evaluation](Evaluation Request Form "Evaluation Request"), or [contact us](/imint.se/about/contact/ "Contact") for a Vidview SDK quotation.
+Vidview SDK is made available in different licensing packages, to fit team size, project scope, and end systems. [Sign up for evaluation](/imint.se/form/evaluation-request "Evaluation Request"), or [contact us](/imint.se/about/contact/ "Contact") for a Vidview SDK quotation.

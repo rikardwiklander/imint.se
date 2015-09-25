@@ -1,6 +1,11 @@
 ---
 date: 2015-09-24
 title: "System Requirements"
+menu:
+  main:
+    name: System Requirements
+    parent: Vidview
+    weight: 40
 ---
 ## Hardware Requirements
 These are the system requirements for a typical Vidview™ installation for handling one SD-video stream.

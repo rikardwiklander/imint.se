@@ -1,10 +1,15 @@
 ---
 date: 2015-09-24
 title: "Vidview Video Mgt"
+menu:
+  main:
+    name: Vidview Video Mgt
+    parent: Vidview
+    weight: 30
 ---
 
 
-A Vidview™ video viewer is primarily an enabling platform for the [Vidhance](vidhance "Vidhance") technology, but is also provides a number of useful video management and video viewing functionality. This allows high level of customization for integration, as well as it saves valuable development time for standard functionality in any video viewing application.
+A Vidview™ video viewer is primarily an enabling platform for the [Vidhance](http://vidhance.com "Vidhance") technology, but is also provides a number of useful video management and video viewing functionality. This allows high level of customization for integration, as well as it saves valuable development time for standard functionality in any video viewing application.
 
 ## User Interaction
 

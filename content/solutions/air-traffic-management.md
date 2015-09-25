@@ -28,4 +28,4 @@ Vidview also enables creation of text and graphic overlays, including those resp
 
 Find out more on [Vidview](Vidview "Vidview") and the [Vidhance](Vidhance "Vidhance") technology.
 
-You are very welcome to [contact us](Contact "Contact") for further questions, or for the opportunity to test drive Vidview. The quickest route is to fill in our [evaluation request form](Evaluation Request Form "Evaluation Request").
+You are very welcome to [contact us](Contact "Contact") for further questions, or for the opportunity to test drive Vidview. The quickest route is to fill in our [evaluation request form](/imint.se/form/evaluation-request "Evaluation Request").
