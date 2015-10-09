@@ -24,7 +24,7 @@ Vidhance also provides useful video analytics functions, such as aircraft tracki
 
 Vidview also enables creation of text and graphic overlays, including those responding to user interaction. Vidview can be delivered with a SDK (Software Development Kit) to enable smooth integration into a host application. Different levels of integration is possible, from tight through development in a .NET environment, to providing ActiveX COM-interfaces, or simply by remote control of a Vidview application through TCP/IP. Integration of Vidview into a host application, such as air traffic control software, is made easy through a Vidview SDK (Software Development Kit)
 
-{{<img src="img/solutions/air-traffic-management/atm-helicopters-289x289.jpg" class="small-image floatright">}}{{<img src="img/solutions/air-traffic-management/atm-flygtorn-286x268.jpg" class="small-image floatright">}}
+{{<img src="img/solutions/air-traffic-management/atm-helicopters-289x289.jpg" class="small-image floatright" caption="chopper">}}{{<img src="img/solutions/air-traffic-management/atm-flygtorn-286x268.jpg" class="small-image floatright">}}
 
 Find out more on [Vidview](Vidview "Vidview") and the [Vidhance](Vidhance "Vidhance") technology.
 

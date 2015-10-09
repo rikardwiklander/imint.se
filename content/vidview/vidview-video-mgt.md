@@ -3,15 +3,15 @@ date: 2015-09-24
 title: "Vidview Video Mgt"
 menu:
   main:
-    name: Vidview Video Mgt
-    parent: Vidview
+    name:
+    parent:
     weight: 30
 ---
 
 
 A Vidview™ video viewer is primarily an enabling platform for the [Vidhance](http://vidhance.com "Vidhance") technology, but is also provides a number of useful video management and video viewing functionality. This allows high level of customization for integration, as well as it saves valuable development time for standard functionality in any video viewing application.
 
-## User Interaction
+# User Interaction
 
 Vidview comes with functionality to interact with the video viewer, whether or not the video is playing or paused, such as:
 
@@ -22,7 +22,7 @@ Vidview comes with functionality to interact with the video viewer, whether or n
 
 This can all be achieved seamlessly and convenient through, for example, mouse button interaction.
 
-## Video Presentation
+# Video Presentation
 
 The way the video is presented in the Vidview viewer can be defined through functions like:
 
@@ -30,15 +30,15 @@ The way the video is presented in the Vidview viewer can be defined through func
 - Setting of aspect ratio
 - De-interlacing of video
 
-## Video Capture and Input
+# Video Capture and Input
 
 Vidview allows for viewing and recording live video as well as video from file.
 
-### Live Analog Capture
+### *Live Analog Capture*
 
 A number of analog capture devices are supported, such as Hauppage USB-LIVE-2, AVerMedia DVD EZMaker 7, and Sensoray 2253. Additional capture devices are also supported, and new devices can be supported upon request.
 
-### Live Digital Capture
+### *Live Digital Capture*
 
 Vidivew supports receiving digital video in the following formats:
 
@@ -52,7 +52,7 @@ Vidview can also support receiving digital video in the following formats (addit
 - MPEG-4 Visual encoded video in a MPEG-2 transport stream over RTSP
 - H.264 encoded in MPEG-2 transport stream over RTSP (record, timeshift)
 
-### Pre-recorded Video
+### *Pre-recorded Video*
 
 Vidview can read stored video in the following formats:
 
@@ -84,7 +84,7 @@ MPEG-2 or H.264 in a MPEG-2 program or transport stream with the following exten
 - .mts (MPEG-2 transport stream)
 
 
-## Video Overlays
+# Video Overlays
 
 Vidview is using advanced adaptive vector overlays, open and sensitive to user interaction. This is a summary of main features:
 

@@ -3,8 +3,8 @@ date: 2015-09-24
 title: "System Requirements"
 menu:
   main:
-    name: System Requirements
-    parent: Vidview
+    name:
+    parent:
     weight: 40
 ---
 ## Hardware Requirements

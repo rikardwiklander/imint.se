@@ -3,8 +3,8 @@ date: 2015-09-24
 title: "Vidview SDK"
 menu:
   main:
-    name: Vidview SDK
-    parent: Vidview
+    name: 
+    parent:
     weight: 20
 ---
 

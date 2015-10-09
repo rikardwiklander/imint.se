@@ -3,8 +3,8 @@ date: 2015-09-24
 title: "Example Use Cases"
 menu:
   main:
-    name: Exampe Use Cases
-    parent: Vidview
+    name: 
+    parent:
     weight: 10
 ---
 {{<img src="img/vidview/operator_alert_1.jpg" class="small-image floatright">}}In practice, the potential list of suitable products for integration is close to endless. Under our [Solutions](/imint.se/solutions/ "Solutions") heading, a few application areas are presented in more detail. Use of video cameras to support human perception is in constant increase, in domain as varied as defense systems for Intelligence, Surveillance and Reconnaissance (ISR), public and governmental safety programs, machine- and equipment control and safety, infrastructure inspection and surveillance, commercial surveillance in industries such as transport, retail, energy and property.

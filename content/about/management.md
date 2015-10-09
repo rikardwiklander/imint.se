@@ -1,11 +1,10 @@
 ---
 date: 2015-09-22T11:27:34+02:00
-title: 
+title:
 menu:
   main:
     name: "Management"
     parent: "about"
-    URL: /imint.se/about/management
     weight: 19
 ---
 
@@ -28,7 +27,7 @@ Björn Berg (b. 1968), member of the board since 2008.
 
 Harald Klomp (b. 1976), founder of Imint, CEO 2007-2012, member of the board since 2013.
 
-You can find more details on Imint's board members on the [board bio's page](imint.se/about/management/board-and-advisor-bios "Board and Advisors").
+You can find more details on Imint's board members on the [board bio's page](/about/board-and-advisor-bios/ "Board and Advisors").
 
 # Advisors and Owner Representatives
 
@@ -38,4 +37,4 @@ Patrick Micucci is presently Finance and Accounting Head at Uppsala University H
 
 Anna Söderholm is an Investment Manager at Almi Invest.
 
-You can find more details on Imint's advisors on the [board bio's page](imint.se/about/board-and-advisor-bios/ "Board and Advisors").
+You can find more details on Imint's advisors on the [board bio's page](/about/board-and-advisor-bios/ "Board and Advisors").

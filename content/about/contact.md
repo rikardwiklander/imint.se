@@ -5,7 +5,6 @@ menu:
   main:
     name: "Contact"
     parent: "about"
-    URL: /imint.se/about/contact
     weight: 19
 ---
 
