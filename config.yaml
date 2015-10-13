@@ -5,3 +5,11 @@ blackfriday:
   extensions:
     - hardLineBreak
 MetaDataFormat: "yaml"
+menu:
+  main:
+    - name: "solutions"
+      URL: "/solutions/"
+      weight: 20
+    - name: "products"
+      URL: "/products/"
+      weight: 30
