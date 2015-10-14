@@ -6,4 +6,12 @@ weight = 90
 parent = "Om"
 name = "Kontakt"
 +++
-För att kontakta Imint ....
+
+# Adress
+
+Karta
+
+S:t Larsgatan 5, 2 TR
+75311  Uppsala
+
+Imint har just flyttat in i våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.

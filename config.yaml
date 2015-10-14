@@ -5,6 +5,7 @@ MetaDataFormat: "toml"
 blackfriday:
   extensions:
     - hardLineBreak
+theme: hugo-vidhance-theme
 menu:
   main:
     - name: "Lösningar"
