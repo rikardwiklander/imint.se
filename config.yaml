@@ -1,0 +1,15 @@
+BaseURL: "http://imint.se"
+languageCode: "sv-se"
+title: "Imint"
+MetaDataFormat: "toml"
+blackfriday:
+  extensions:
+    - hardLineBreak
+menu:
+  main:
+    - name: "Lösningar"
+      weight: 15
+      URL: "/losningar/"
+    - name: "Nyheter"
+      weight: 15
+      URL: "/nyheter/"

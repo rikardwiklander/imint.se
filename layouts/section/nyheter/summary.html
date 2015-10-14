@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+<head>{{ partial "head.html" . }}</head>
+<body id="inner-wrap">
+	<header id="top">{{ partial "header.html" . }}</header>
+	<nav id="nav">
+		<div class="block">
+			{{ partial "menu.html" .Site.Menus.main }}
+			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
+		</div>
+	</nav>
+	<main>
+		<section>
+			{{ range first 5 .Data.Pages.ByDate.Reverse }}
+				{{ .Render "summary" }}
+			{{ end }}
+		</section>
+		<center style="margin-bottom:1em;"><a style="font-weight:bold;"href="/newsarchive/archive">News archive</a><center>
+	</main>
+	<footer>{{ partial "footer.html" . }}</footer>
+	{{ partial "foot.html" . }}
+</body>
+</html>
