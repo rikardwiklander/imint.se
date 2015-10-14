@@ -7,9 +7,5 @@ parent = "Lösningar"
 name = "Komprimering"
 +++
 **TODO: Bild**
-...
-- komprimering minskar på utrymme som krävs
-- genom att minska på förändringar från frame till frame med Vidhance kan vi komprimera bättre
-- underlättar kommunikation på nätet och för lagring i små enheter med begränsat utrymme
-- video av hög kvalitet tar fortfarande mycket plats
-...
+
+Videofiler av hög kvalitet tar fortfarande upp relativt mycket plats. Med stabiliserad och korrigerad video minskar de onödiga förändringar från bild till bild som annars uppstår i video. Videokomprimeringsalgoritmer får då lättare att minimera den storlek och bandbredd som krävs för att lagra eller via internet överföra en videofil. Detta underlättar i sin tur videokommunikation och lagring i små enheter med begränsat lagringsutrymme.
