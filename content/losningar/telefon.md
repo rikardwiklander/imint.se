@@ -7,4 +7,8 @@ weight = 1
 parent = "Lösningar"
 name = "Telefon"
 +++
-De senaste åren har en snabb teknologiförbättring skett på smartphonemarknaden och att fotografera med marknadsledande telefoner ligger nu nära profesionell nivå. Videokvalitet och -prestanda har halkat efter, men Vidhance® kommer låta video göra samma steg framåt som fotografi.
+De senaste åren har en snabb teknologiförbättring skett på smartphonemarknaden och möjligheten att fotografera med marknadsledande telefoner ligger nu nära profesionell nivå. Videokvalitet och -prestanda har tyvärr halkat efter, men Vidhance® kommer låta videoinspelning göra samma snabba och revolutionerande steg framåt som skett inom stillbildsfotografi. Detta genom att ta bort oönskade rörelser och ge en mjuk profesionell känsla i det färdiga videoklippet.
+
+[Läs mer om Vidhance Mobile (på engelska)] (http://vidhancemobile.com)
+
+<!--Analysverktygen i Vidhance® ger, förutom direkta vinster i videostabilisering, ett innovativt mjukvarulager att bygga på med en mängd metadata i realtid, såsom detaljrik rörelseinformation.-->

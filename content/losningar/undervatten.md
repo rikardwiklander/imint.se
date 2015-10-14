@@ -8,3 +8,5 @@ parent = "Lösningar"
 name = "Video under ytan"
 +++
 Fjärrstyrda undervattenrobotar har blivit ett oumbärligt verktyg i diverse djuphavsoperationer. Vidhance® kan reducera effekterna av ojämn belysning och förbättra videokvalitet i mörkt och grumligt vatten med hjälp av kontrastoptimering.
+
+[Läs mer om Vidhance (på engelska)] (http://vidhance.com)
