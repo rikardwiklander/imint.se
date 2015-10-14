@@ -6,4 +6,4 @@ weight = 10
 parent = "Lösningar"
 name = "Telefon"
 +++
-Imint Vidhance video förbättring kan integreras i en moderns telefons operativsystem.
+Imint Vidhance video förbättring kan integreras i en modern telefons operativsystem.

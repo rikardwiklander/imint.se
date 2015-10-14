@@ -8,4 +8,4 @@ name = "Ägare"
 +++
 # PÄAB
 # Almi Invest
-# UUAB
+# Uppsala Universitet Holding AB
