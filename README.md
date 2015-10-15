@@ -1,3 +1,5 @@
+[![wercker status](https://app.wercker.com/status/c2f4adbc42f25c588a7582dd444cb1e3/m "wercker status")](https://app.wercker.com/project/bykey/c2f4adbc42f25c588a7582dd444cb1e3)
+
 # imint.se
 Website for imint.se
 
