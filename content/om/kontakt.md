@@ -16,3 +16,10 @@ S:t Larsgatan 5, 2 TR
 Imint har just flyttat in i våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.
 
 [gatvy](https://goo.gl/maps/TXkyuDDveeu "Google Street View")
+
+
+## Kontakta oss
+<div class="cognito">
+<script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
+<script>Cognito.load("forms", { id: "6" });</script>
+</div>
