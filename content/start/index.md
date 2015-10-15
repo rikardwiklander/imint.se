@@ -6,9 +6,6 @@ weight = 10
 name = "Start"
 URL = ""
 +++
-
-**TODO: Videor - Eric/Jonathan fixar**
-
 Imint AB erbjuder mjukvarulösningar för videoförbättring och videoanalys i realtid. Vår vision är att inta en världsledande position för att analysera, optimera och förbättra video i realtid, till exempel i liveströmmar, för att skapa mervärde åt konsumentmarknaden.
 
 Bolagets teknologi har tidigare sålts till flera ledande internationella bolag inom spaning med obemannade flygfarkoster (UAV). Imints teknik har även integrerats och sålts till krävande industriella applikationer på så skilda marknader som militära undervattensfarkoster och flygtrafikledning. Vem kunde ana att en teknik utvecklad för en militär operatör på marken, som behövde få bättre video från en drönare i luften, skulle vara just det som en hårt konkurrensutsatt smartphonemarknad letade efter?
