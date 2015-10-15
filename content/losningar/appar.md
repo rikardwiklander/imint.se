@@ -9,6 +9,6 @@ name = "Appar och sociala medier"
 +++
 Idag finns ett stort antal appar och sociala medier som låter användaren spara, bearbeta och dela foton och videor, men bara ett fåtal kan ge användaren automatiserade förslag på hur materialet skulle kunna förbättras. Samtidigt är konsumenters önskan att kunna dela sina upplevelser i form av bilder och videor på direkten.
 
-Vidhance® erbjuder i realtid en stabiliserad video av profesionell kvalitet och kan dessutom skänka användaren automatiserade förslag på hur materialet skulle kunna förbättras, allt på ett tidseffektivt sätt.
+Vidhance® erbjuder i realtid en stabiliserad video av professionell kvalitet och kan dessutom skänka användaren automatiserade förslag på hur materialet skulle kunna förbättras, allt på ett tidseffektivt sätt.
 
 [Läs mer om Vidhance Mobile (på engelska)] (http://vidhancemobile.com)
