@@ -12,5 +12,3 @@ Videofiler av hög kvalitet tar fortfarande upp relativt mycket plats. Med stabi
 Detta underlättar i sin tur kommunikation med, och lagring av, video i små enheter med begränsat lagringsutrymme, exempelvis smartphones. Samtidigt förbättras videokvaliteten avsevärt i livescenarion såsom videokonferenser.
 
 [Läs mer om Vidhance (på engelska)] (http://vidhance.com)
-
-<!--Using Vidhance video stabilization ahead of encoding dramatically improve compression efficiency,-->
