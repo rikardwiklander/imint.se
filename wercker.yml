@@ -7,10 +7,9 @@ build:
             git submodule update --init --recursive
     - arjen/hugo-build:
         version: "0.14"
-        theme: hugo-vidhance-theme
 deploy:
   steps:
     - lukevivier/gh-pages@0.2.1:
         token: $GIT_TOKEN
-        domain: imint.se
+        domain: new.imint.se
         basedir: public
