@@ -21,6 +21,4 @@ Vi på Imint drivs av en vilja att fundamentalt förändra hur vi i vardagen kan
 
 Varmt välkommen att lära dig mer om Imint!
 
->[Imint's Vidhance algorithm could soon replace live video producers] (http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/)
-
-{{<cite "Frederic Lardinois, TechCrunch, Juni 2015">}}
+> [Imint's Vidhance algorithm could soon replace live video producers](http://techcrunch.com/2015/06/22/imints-vidhance-algorithms-could-soon-replace-live-video-producers/)<cite>Frederic Lardinois, TechCrunch, Juni 2015</cite>
