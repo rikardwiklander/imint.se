@@ -6,7 +6,7 @@ weight = 90
 parent = "Om"
 name = "Adress"
 +++
-![gatuvy](/om/adress/gatuvy_domkyrkan.jpg)
+![gatuvy](/om/adress/gatuvy_domkyrkan.JPG)
 
 
 S:t Larsgatan 5, 2 TR
