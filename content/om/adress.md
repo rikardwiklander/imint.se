@@ -17,6 +17,8 @@ Telefon: +46 18 4749990
 
 Epost: info@imint.se
 
-Imint har nyligen flyttat in i våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.
+Imint håller till på våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.
+
+[Klicka här för att kontakta oss] (/om/kontakt)
 
 <iframe width="800" height="500" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=17.62158751487732%2C59.856427344260275%2C17.6395046710968%2C59.862083931349524&amp;layer=mapnik&amp;marker=59.85925575803042%2C17.63054609298706" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=59.85926&amp;mlon=17.63055#map=17/59.85926/17.63055">Visa större karta</a></small>
