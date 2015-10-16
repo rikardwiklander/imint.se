@@ -5,5 +5,5 @@ weight = 10
 name = "Start"
 URL = ""
 +++
-Imint AB erbjuder mjukvarulösningar för videoförbättring och videoanalys i realtid. Vår vision är att inta en världsledande position för att analysera, optimera och förbättra video i realtid, till exempel i liveströmmar, för att skapa mervärde åt konsumentmarknaden.
+Imint AB erbjuder _mjukvarulösningar_ för videoförbättring och videoanalys i realtid. Vår vision är att inta en _världsledande_ position för att _analysera, optimera och förbättra video i realtid_, till exempel i liveströmmar, för att skapa mervärde åt _konsumentmarknaden_.
 
