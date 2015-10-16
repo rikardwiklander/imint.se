@@ -9,7 +9,7 @@ name = "Ledning"
 ![Andreas och Simon](/om/ledning/imint_management_liten.jpg)
 
 # Andreas Lifvendahl (född 1971) VD
-Andreas har varit VD sedan 2012, efter att tidigare ha varit bolagets försäljningsdirektör 2010-2011. Han lämnade Imint 2011 för att leda det internationella teknikkonsultbolaget Etteplans (publ) lokala kontor i Uppsala. Andreas har över 15 års erfarenhet av global storkundsförsäljning och säljledning i bla Europa, USA och Asien, bland annat inom mjukvaru- och halvledarindustrin. Han har en civilingenjörsexamen i teknisk fysik från Uppsala universitet, och ytterligare akademisk utbildning inom kommersiell juridik (Uppsala universitet) och affärsledning (Handelshögskolan).
+Andreas har varit VD sedan 2012, efter att tidigare ha varit bolagets försäljningsdirektör 2010-2011. Han lämnade Imint 2011 för att leda det internationella teknikkonsultbolaget Etteplans (publ) lokala kontor i Uppsala. Andreas har över 15 års erfarenhet av global storkundsförsäljning och säljledning i bland annat Europa, USA och Asien, inom branscher såsom mjukvaru- och halvledarindustrin. Han har en civilingenjörsexamen i teknisk fysik från Uppsala universitet, och ytterligare akademisk utbildning inom kommersiell juridik (Uppsala universitet) och affärsledning (Handelshögskolan).
 
 Läs mer på Andreas [LinkedIn profil](http://www.linkedin.com/in/andreaslifvendahl).
 

@@ -8,6 +8,7 @@ name = "Styrelse"
 +++
 # Gösta Franzen (född 1950) Styrelseordförande sedan 2015
 Gösta har en bred erfarenhet av M&A-affärer och utveckling av företag och organisationer. Gösta har innehaft ledande positioner på Capgemini och där ansvarat för P&L och försäljning samt M&A. Genom sitt arbete har Gösta erfarenhet av att arbeta mot globala kunder i en internationell miljö.
+
 Gösta är även styrelseordförande i PÄAB, Professionell Ägarstyrning AB, och i The Amazing Society AB.
 
 # Hans Eriksson (född 1966) Styrelseledamot sedan sep 2015
