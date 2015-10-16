@@ -3,7 +3,7 @@ title = "Ägare"
 date = 2015-10-14T00:00:00Z
 weight = 30
 [menu.main]
-parent = "Investera"
+parent = "Investor relations"
 name = "Ägare"
 +++
 # Professionell Ägarstyrning i Sverige AB (PÄAB)  
