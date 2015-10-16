@@ -8,14 +8,16 @@ name = "Adress"
 +++
 ![gatuvy](/om/adress/gatuvy_domkyrkan.JPG)
 
-**Postadress**
-S:t Larsgatan 5, 2 TR
+### Postadress
+S:t Larsgatan 5, 2 tr
 753 11  Uppsala
 Sverige
 
-**Telefon:** +46 18 4749990
+### Telefon
++46 18 474 99 90
 
-**Epost:** [info@imint.se] (mailto:info@imint.se)
+### Epost
+[info@imint.se] (mailto:info@imint.se)
 
 Imint håller till på våningen högst upp ovanför Smålands nation, mitt i de gamla akademiska kvarteren i Uppsala.
 
