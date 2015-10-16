@@ -1,4 +1,4 @@
-BaseURL: "http://new.imint.se"
+BaseURL: "http://imint.se"
 languageCode: "sv-se"
 title: "Imint"
 MetaDataFormat: "toml"
