@@ -8,7 +8,7 @@ name = "Adress"
 +++
 ![gatuvy](/om/adress/gatuvy_domkyrkan.JPG)
 
-**Adress**
+**Postadress**
 S:t Larsgatan 5, 2 TR
 753 11  Uppsala
 Sverige
