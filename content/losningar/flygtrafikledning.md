@@ -2,7 +2,7 @@
 title = "Flygtrafikledning"
 date = 2015-10-14T00:00:00Z
 image = "foggyRunway.png"
-weight = 3
+weight = 40
 [menu.main]
 parent = "Lösningar"
 name = "Flygtrafikledning"
