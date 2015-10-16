@@ -7,8 +7,8 @@ weight = 10
 parent = "Lösningar"
 name = "Mobiltelefon"
 +++
-De senaste åren har en snabb teknologiförbättring skett på smartphonemarknaden och möjligheten att fotografera med marknadsledande telefoner ligger nu nära professionell nivå. Tyvärr har kvalitet och prestanda för videoinspelning har halkat efter.
+De senaste åren har en snabb teknologiförbättring skett på smartphone-marknaden, och möjligheten att fotografera med marknadsledande telefoner ligger nu nära professionell nivå. Tyvärr har kvalitet och prestanda för videoinspelning har halkat efter.
 
-Vidhance® kommer låta videoinspelning göra samma snabba och revolutionerande steg framåt som skett inom stillbildsfotografi. Detta genom att ta bort oönskade rörelser och ge en mjuk professionell känsla i det färdiga videoklippet.
+Vidhance® kommer låta videoinspelning göra samma snabba och revolutionerande steg framåt som skett inom stillbildsfotografi genom att ta bort oönskade rörelser och ge en mjuk, professionell känsla i det färdiga videoklippet.
 
 [Läs mer om Vidhance Mobile (på engelska)] (http://vidhancemobile.com)
