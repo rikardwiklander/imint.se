@@ -25,9 +25,3 @@ Haralds arbete för Imint har fått flera utmärkelser, bl.a. Moby Awards, Hande
 Joakim har en ingenjörsexamen från Lunds Tekniska Högskola. Han har över 15 års erfarenhet av utvecklings- och tillväxtföretag, bl.a. som VD på Obigo AB och i andra ledande befattningar på bl.a. Teleca (vVD), TAT AB (global försäljningschef och slutligen VD) och Anoto Group AB (global försäljnings- och marknadsdirektör). Han har därigenom erfarenhet av internationell försäljning gentemot bl.a. mobiltelefonindustrin samt att etablera verksamheter på den asiatiska marknaden.
 
 Joakim är sedan 2012 VD på Chrunchfish AB. Läs mer på hans [LinkedIn-profil] (http://www.linkedin.com/in/joakimnydemark/)
-
-
-
-
-
-# ...
