@@ -2,7 +2,8 @@ body > header {
 	background-color: white;
 }
 body {
-	background-color: #d8dfe5;
+	background: #d8dfe5;
+	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
 }
 body > main > section > article {
 	background-color: #dfe5e9;
