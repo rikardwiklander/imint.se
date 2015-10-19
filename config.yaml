@@ -1,4 +1,4 @@
-BaseURL: "http://new.imint.se"
+BaseURL: "http://imint.se"
 languageCode: "sv-se"
 title: "Imint"
 MetaDataFormat: "toml"
@@ -9,8 +9,8 @@ theme: hugo-vidhance-theme
 menu:
   main:
     - name: "Lösningar"
-      weight: 15
+      weight: 30
       URL: "/losningar/"
     - name: "Nyheter"
-      weight: 15
+      weight: 20
       URL: "/nyheter/"

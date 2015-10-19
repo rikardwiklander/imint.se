@@ -1,7 +1,7 @@
 ---
 date: 2015-06-08
 location: "Stockholm, Sweden"
-title: "Imint's CEO Interviewed by Breakit (in Swedish)"
+title: "Imints VD intervjuad av Breakit"
 ---
-[Breakit](http://breakit.se) - the new Swedish news site on technology and startups - interviews Imint CEO Andreas Lifvendahl.See the [full video interview](https://redeye.solidtango.com/widgets/embed/epsjxsbb?auto_play=false) (in Swedish).
+[Breakit](http://breakit.se) - den nya svenska sidan om teknologi och startups - intervjuar Imints VD Andreas Lifvendahl. Se den [kompletta videointervjun](https://redeye.solidtango.com/widgets/embed/epsjxsbb?auto_play=false).
 <!--more-->
