@@ -17,7 +17,7 @@ Hans har en examen i Internationell ekonomi från Linköpings universitet. Hans 
 Hans är även styrelseordförande i Bambuser AB och styrelseledamot i Frideborg Consulting AB.
 
 # Harald Klomp (född 1976) Styrelseledamot sedan 2012
-Harald grundade Imint tillsammans med en studiekamrat 2008 och var fram till slutet av 2012 dess VD. Han bedriver idag egen verksamhet från Aktiebolaget Uppsala Engineering Partner samt arbetar som CFO åt LeadCold AB. Harald är även styrelseledamot i Aktiebolaget Uppsala Engineering Partner, VisueCare AB och IMINT Partners AB. Harald har en M.Sc och B.B.A från Uppala universitet och National University of Singapore.
+Harald grundade Imint 2008 tillsammans med en studiekamrat, Jakob Sandström, och var fram till slutet av 2012 dess VD. Han bedriver idag egen verksamhet från Aktiebolaget Uppsala Engineering Partner samt arbetar som CFO åt LeadCold AB. Harald är även styrelseledamot i Aktiebolaget Uppsala Engineering Partner, VisueCare AB och IMINT Partners AB. Harald har en M.Sc och B.B.A från Uppala universitet och National University of Singapore.
 
 Haralds arbete för Imint har fått flera utmärkelser, bl.a. Moby Awards, Handelsbanken Innovation Award, Computer Sweden topp 100 utvecklare, och många fler. Läs mer på Haralds [LinkedIn-profil] (http://www.linkedin.com/in/harald-klomp)
 
