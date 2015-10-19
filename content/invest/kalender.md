@@ -5,5 +5,5 @@ weight = 30
 draft = true
 [menu.main]
 parent = "Investor relations"
-name = "Rapporter"
+name = "Kalendarium"
 +++
