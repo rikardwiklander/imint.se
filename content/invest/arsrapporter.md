@@ -7,9 +7,9 @@ parent = "Investera"
 name = "Årsrapporter"
 +++
 # Årsredovisningar
-[Årsredovisning 2014](/invest/Årsredovisning IMINT 2014.pdf)
+[Årsredovisning 2014](/invest/arsredovisning_IMINT_2014.pdf)
 
-[Årsredovisning 2013](/invest/Årsredovisning IMINT 2013.pdf)
+[Årsredovisning 2013](/invest/arsredovisning_IMINT_2013.pdf)
 
 # Flerårsöversikt
-[Imints flerårsöversikt](/invest/IMINT Flerårsöversikt.pdf)
+[Imints flerårsöversikt](/invest/IMINT_Flerarsoversikt.pdf)

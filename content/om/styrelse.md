@@ -22,6 +22,6 @@ Harald grundade Imint tillsammans med en studiekamrat 2008 och var fram till slu
 Haralds arbete för Imint har fått flera utmärkelser, bl.a. Moby Awards, Handelsbanken Innovation Award, Computer Sweden topp 100 utvecklare, och många fler. Läs mer på Haralds [LinkedIn-profil] (http://www.linkedin.com/in/harald-klomp)
 
 # Joakim Nydemark (född 1971) Styrelseledamot sedan september 2015
-Joakim har en ingenjörsexamen från Lunds Tekniska Högskola. Han har över 15 års erfarenhet av utvecklings- och tillväxtföretag, bl.a. som VD på Obigo AB och i andra ledande befattningar på bl.a. vVD för Teleca, global försäljningschef och senare VD för TAT AB och global försäljnings- och marknadsdirektör för  Anoto Group AB. Han har därigenom erfarenhet av internationell försäljning gentemot bl.a. mobiltelefonindustrin samt av att etablera verksamheter på den asiatiska marknaden.
-ß
+Joakim har en ingenjörsexamen från Lunds Tekniska Högskola. Han har över 15 års erfarenhet av utvecklings- och tillväxtföretag, bl.a. som VD på Obigo AB och i andra ledande befattningar bland annat som vice VD för Teleca, global försäljningschef och senare VD för TAT AB samt global försäljnings- och marknadsdirektör för Anoto Group AB. Han har därigenom erfarenhet av internationell försäljning gentemot bl.a. mobiltelefonindustrin samt av att etablera verksamheter på den asiatiska marknaden.
+
 Joakim är sedan 2012 VD på Chrunchfish AB. Läs mer på hans [LinkedIn-profil] (http://www.linkedin.com/in/joakimnydemark/)
