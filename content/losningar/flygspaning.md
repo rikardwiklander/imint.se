@@ -11,6 +11,6 @@ Video från obemannade flygfarkoster (UAV) påverkas ofta av störningar i form 
 
 Vidhance® korrigerar dessa typer av problem och skapar i realtid en förbättrad video för personen som ser videon inifrån en markstation eller vid en avlägsen videoterminal.
 
-Detta är något vi har erfarenhet av sedan 2009. Våra produkter utvecklats i samarbete med krävande kunder i olika industriella branscher.
+Detta är något vi har erfarenhet av sedan 2009. Våra produkter har sedan start utvecklats i samarbete med krävande kunder i olika industriella branscher.
 
 [Läs mer om Vidhance (på engelska)] (http://vidhance.com)
