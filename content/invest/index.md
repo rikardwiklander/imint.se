@@ -9,4 +9,4 @@ Imint planerar en _nyemission_ med efterföljande _notering på Aktietorget_ i n
 
 Imint är ett bolag som föddes ur två entreprenörers forskning vid Uppsala universitet och som, i projekt med videoförbättring för drönare, kom på metoder för att riktigt snabbt analysera, optimera och förbättra rörlig bild. Idag, efter flera års utveckling, ser vi en reell möjlighet att fundamentalt förändra hur vi i vardagen kan använda video.
 
-Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
+Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
