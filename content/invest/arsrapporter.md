@@ -3,7 +3,7 @@ title = "Årsrapporter"
 date = 2015-10-14T00:00:00Z
 weight = 30
 [menu.main]
-parent = "Investera"
+parent = "Investor relations"
 name = "Årsrapporter"
 +++
 # Årsredovisningar
@@ -12,4 +12,4 @@ name = "Årsrapporter"
 [Årsredovisning 2013](/invest/imint_arsredovisning_2013.pdf)
 
 # Flerårsöversikt
-[Imints flerårsöversikt](/invest/imint_Flerarsoversikt.pdf)
+[Imints flerårsöversikt](/invest/imint_flerarsoversikt.pdf)
