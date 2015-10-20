@@ -18,4 +18,4 @@ Almi Invest har som mål att skapa tillväxt och förnyelse genom att investera 
 UUAB främjar samarbete mellan Uppsala universitet och industrin. De gör detta dels genom att stödja forskningssamarbete dem emellan och dels genom att stödja utvecklingen och kommersialiseringen av idéer från forskningen vid universitetet. UUAB är universitetets holdingbolag och ägs av svenska staten och förvaltas av Uppsala universitet. Dess styrelse utses av universitetet rektor. Genom UUAB kan universitetet licensiera ut ny teknik och etablera nya forskningsbaserade företag. UUAB har gjort i rad investeringar i Imint.
 
 # Förteckning över de största ägarna i Imint
-[Imints 10 största ägare](/invest/IMINT_tio_storsta_agare.pdf)
+[Imints 10 största ägare](/invest/imint_tio_storsta_agare.pdf)

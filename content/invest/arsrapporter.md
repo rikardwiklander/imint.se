@@ -12,4 +12,4 @@ name = "Årsrapporter"
 [Årsredovisning 2013](/invest/imint_arsredovisning_2013.pdf)
 
 # Flerårsöversikt
-[Imints flerårsöversikt](/invest/IMINT_Flerarsoversikt.pdf)
+[Imints flerårsöversikt](/invest/imint_Flerarsoversikt.pdf)
