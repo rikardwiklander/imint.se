@@ -7,6 +7,9 @@ draft = true
 parent = "Investor relations"
 name = "Nyemission"
 +++
+Här kommer inom kort Imints noteringsmemorandum att läggas upp.
+
+Vid intresse av emissionen eller av uppdaterad information, vänligen fyll i nedanstående formulär:
 
 <div class="cognito">
 <script src="https://services.cognitoforms.com/s/0UaHaqFaiUmXjjCMvn0-dA"></script>
