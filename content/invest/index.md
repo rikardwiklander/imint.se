@@ -14,6 +14,6 @@ Imint är ett bolag som föddes ur två entreprenörers forskning vid Uppsala un
 Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
 
 ## Relaterade nyheter
-[Andreas Lifvendahls drönarbolag byter spår – går in på Aktietorget](http://breakit.se/artikel/1615/andreas-lifvendahls-dronarbolag-byter-spar-gar-in-pa-aktietorget): Breakit, 2015-10-16</cite>
-
-[Uppsalabolaget som ska noteras: Vår teknik matchar Apples](http://www.va.se/nyheter/2015/10/15/uppsalabolaget-som-ska-noteras-var-teknik-matchar-apples/): Veckans Affärer, 2015-10-15
+* [Video av Imints presentation på Aktiedagen](http://aktiespararna.fnf.nu/player/#/74/626): Aktiespararna, 2015-10-19
+* [Andreas Lifvendahls drönarbolag byter spår – går in på Aktietorget](http://breakit.se/artikel/1615/andreas-lifvendahls-dronarbolag-byter-spar-gar-in-pa-aktietorget): Breakit, 2015-10-16
+* [Uppsalabolaget som ska noteras: Vår teknik matchar Apples](http://www.va.se/nyheter/2015/10/15/uppsalabolaget-som-ska-noteras-var-teknik-matchar-apples/): Veckans Affärer, 2015-10-15
