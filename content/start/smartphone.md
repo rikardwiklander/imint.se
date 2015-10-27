@@ -1,5 +1,5 @@
 +++
 title = "Bättre video med mobilen"
-weight = 15
+weight = 0
 background = "../smartphone-photoing.jpg"
 +++
