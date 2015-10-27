@@ -1,33 +1,15 @@
-<!DOCTYPE html>
-<html lang="{{ .Site.LanguageCode }}">
-<head>{{ partial "head.html" . }}</head>
-<body id="inner-wrap">
-	<header id="top">{{ partial "header.html" . }}</header>
-	<nav id="nav">
-		<div class="block">
-			{{ partial "menu.html" .Site.Menus.main }}
-			<a id="nav-close-btn" class="close-btn" href="#top">Return to Content</a>
-		</div>
-	</nav>
+<article {{ if isset .Params "image" }} class="graphic" {{ end }}>
+	<header><h1>{{ .Title }}</h1></header>
+	{{ if isset .Params "image" }}
+		<figure>
+			<img src="{{ .RelPermalink }}{{ .Params.image }}">
+		</figure>
+	{{ end }}
 	<main>
-		<section>
-			{{ range .Data.Pages.ByWeight }}
-				<article class="job-position">
-					<header>
-						<h2><a class="no-decoration" href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-						<h5>{{ .Params.location }}</h5>
-					</header>
-					<main>
-						{{ .Summary }}
-						{{ if .Truncated }}
-							<a href="{{ .RelPermalink }}">Läs mer</a>
-						{{ end }}
-					</main>
-				</article>
-			{{ end }}
-		</section>
+		{{ .Summary }}
+		{{ if .Truncated }}
+			<a href="{{ .RelPermalink }}">Läs mer</a>
+		{{ end }}
 	</main>
-	<footer>{{ partial "footer.html" . }}</footer>
-	{{ partial "foot.html" . }}
-</body>
-</html>
+	<footer>{{ with .Params.backgroundcopyright }}<p>{{ . }}</p>{{ end }}</footer>
+</article>
