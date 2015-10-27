@@ -1,5 +1,5 @@
 +++
 title = "Beprövad teknik"
-weight = 15
+weight = 25
 background = "../uav.jpg"
 +++
