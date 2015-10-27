@@ -1,7 +1,7 @@
 +++
 title = "Integration i mobiltelefon"
 date = 2015-10-14T00:00:00Z
-image = "phonePhotography.png"
+image = "Leather smartphone camera by Luca Viscardi.jpg"
 weight = 10
 [menu.main]
 parent = "Lösningar"
