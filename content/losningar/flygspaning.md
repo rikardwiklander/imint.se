@@ -9,8 +9,8 @@ name = "Flygspaning"
 +++
 Video från obemannade flygfarkoster (UAV) påverkas ofta av störningar i form av okontrollerade rörelser, vibrationer, turbulens och dåliga väderförhållanden. Trots det krävs videoströmmar av bra kvalitet där stabilisering kan vara en avgörande faktor.
 
-Vidhance® korrigerar dessa typer av problem och skapar i realtid en förbättrad video för personen som ser videon inifrån en markstation eller vid en avlägsen videoterminal.
+Vidhance® korrigerar dessa typer av problem och skapar i realtid en förbättrad video för operatören belägen vid en markstation eller vid en avlägsen videoterminal.
 <!--more-->
-Detta är något vi har erfarenhet av sedan 2009. Våra produkter har sedan start utvecklats i samarbete med krävande kunder i olika industriella branscher.
+Detta är något vi har erfarenhet av sedan 2009. Våra produkter har sedan start utvecklats i samarbete med krävande kunder i flertalet olika industriella branscher.
 
 [Läs mer om Vidhance (på engelska)] (http://vidhance.com)
