@@ -20,6 +20,28 @@ article.latestnews article {
 	padding: 0;
 }
 @media only screen and (min-width: 52em) {
+	body > header {
+		position: fixed;
+		z-index: 200;
+		height: 160px;
+		top: 0;
+		left: 0;
+	}
+	body > header > a > img {
+		height: auto;
+		width: auto;
+		max-height: 100%;
+	}
+	body > nav {
+		position: fixed !important;
+		top: 0;
+		left: 0;
+		margin-top: 160px;
+		height: 32px;
+	}
+	body > main {
+		margin-top: 192px;
+	}
 	article.latestnews article {
 		float: left;
 		width: 45%;
