@@ -6,7 +6,11 @@ weight = 30
 parent = "Investor relations"
 name = "Nyemission"
 +++
-Här kommer inom kort Imints noteringsmemorandum att läggas upp.
+# Imints noteringsmemorandum
+[Memorandum](/invest/Imint_Memorandum_ver20151028_final.pdf)
+
+# Teaser - kortversion av Imints memorandum
+[Teaser](/invest/Imint_Teaser_final.pdf)
 
 Vid intresse av emissionen eller av uppdaterad information, vänligen fyll i nedanstående formulär:
 
