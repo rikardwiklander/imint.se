@@ -15,4 +15,4 @@ Vidhance® förbättrar videoströmmen som tas emot hos en avlägsen trafikledni
 
 Vidhance® innehåller också videoanalysteknik, till exempel möjligheten att automatiskt följa ett objekt, vilket avsevärt kan underlätta trafikledningens arbete.
 
-Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/phone) (på engelska).
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/airtrafficcontrol/) (på engelska).

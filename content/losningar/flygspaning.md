@@ -13,4 +13,4 @@ Vidhance® korrigerar dessa typer av problem och skapar i realtid en förbättra
 <!--more-->
 Detta är något vi har erfarenhet av sedan 2009. Våra produkter har sedan start utvecklats i samarbete med krävande kunder i flertalet olika industriella branscher.
 
-Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/phone) (på engelska).
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/aerialsurveillance/) (på engelska).

@@ -15,4 +15,4 @@ Detta underlättar i sin tur kommunikation med, och lagring av, video i små enh
 
 Privat videoinspelning med smartphones och kameror kommer också dra mycket nytta av denna teknik.
 
-Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/phone) (på engelska).
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/compression/) (på engelska).
