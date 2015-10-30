@@ -16,7 +16,7 @@ Gösta är även styrelseordförande i PÄAB, Professionell Ägarstyrning AB, oc
 
 
 # Hans Eriksson (född 1966) Styrelseledamot sedan september 2015
-![hans_eriksson](/om/styrelse/hans_eriksson.png)Hans har en examen i Internationell ekonomi från Linköpings universitet. Hans har en bred operationell erfarenhet från utvecklings- och teknikföretag. Däribland som VD för Bambuser i ca 5 år, ansvarade för etableringen av MySpace på den nordiska marknaden samt som VD för Lunarstorm under 2 år. Hans har även över 10 års erfarenhet av från den finansiella marknaden under 90-talet, b.la på HQ och Danske Bank. Han har även haft flera uppdrag åt riskkapitalbolag så som Atomico och Northzone. Hans jobbar idag som senior rådgivare åt teknik- och tillväxtföretag.
+![hans_eriksson](/om/styrelse/hans_eriksson.png)Hans har en examen i Internationell ekonomi från Linköpings universitet. Hans har en bred operationell erfarenhet från utvecklings- och teknikföretag. Däribland som VD för Bambuser i ca 5 år, ansvarade för etableringen av MySpace på den nordiska marknaden samt som VD för Lunarstorm under 2 år. Hans har även över 10 års erfarenhet från den finansiella marknaden under 90-talet, b.la på HQ och Danske Bank. Han har även haft flera uppdrag åt riskkapitalbolag så som Atomico och Northzone. Hans jobbar idag som senior rådgivare åt teknik- och tillväxtföretag.
 
 Hans är även styrelseordförande i Bambuser AB och styrelseledamot i Frideborg Consulting AB.
 
