@@ -13,4 +13,4 @@ Dessutom kan vår teknik i realtid reducera effekterna av ojämn belysning och f
 <!--more-->
 Genom att alla beräkningar sker i vår mjukvara minskar den nödvändiga komplexiteten hos den redan påfrestade hårdvaran, som kan fokusera på att bara leverera video. Vidhance® sköter resten.
 
-[Läs mer om Vidhance (på engelska)] (http://vidhance.com)
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/underwater/) (på engelska).
