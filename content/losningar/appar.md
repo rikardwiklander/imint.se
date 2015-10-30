@@ -13,4 +13,4 @@ Samtidigt vill konsumenter direkt kunna dela sina upplevelser i form av bilder o
 <!--more-->
 Vidhance® erbjuder i realtid en stabiliserad video av professionell kvalitet och kan dessutom skänka användaren automatiserade förslag på förbättringar. Detta är till nytta inte bara i livesändningar från många olika typer av event, utan även för exempelvis marknadsföring på auktionssidor och ehandelsbolag, eller för att dela med sig av videomaterial på sociala medier.
 
-[Läs mer om Vidhance Mobile (på engelska)] (http://vidhancemobile.com)
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/phone) (på engelska).

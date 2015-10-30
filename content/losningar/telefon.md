@@ -13,4 +13,4 @@ Vidhance® kommer låta videoinspelning göra samma snabba och revolutionerande 
 <!--more-->
 Smartphones är den största av alla marknader inom konsumentelektronik idag, och dess roll som uttrycksmedel för individen blir alltjämt starkare. Telefonindustrin, telekomleverantörer och appföretag vill alla se framsteg på smartphonesidan, där kamera och video spelar en nyckelroll för att göra nya modeller attraktiva för användare.
 
-[Läs mer om Vidhance Mobile (på engelska)] (http://vidhancemobile.com)
+Läs mer om detta på [Vidhance.com](http://vidhance.com/solutions/phone) (på engelska).
