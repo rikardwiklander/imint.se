@@ -19,6 +19,24 @@ article.latestnews article {
 	margin: 0;
 	padding: 0;
 }
+nav.pagination:first-of-type {
+	padding-top: 1em;
+}
+nav.pagination:last-of-type {
+	padding-bottom: 1em;
+}
+nav.pagination {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 52em;
+	font-weight: bold;
+	background-color: #dfe5e9;
+}
+nav.pagination > main {
+	margin-right: auto;
+	margin-left: auto;
+	max-width: 13em;
+}
 @media only screen and (min-width: 52em) {
 	body > header {
 		position: fixed;
