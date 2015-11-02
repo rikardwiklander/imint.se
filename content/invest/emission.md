@@ -6,6 +6,11 @@ weight = 30
 parent = "Investor relations"
 name = "Nyemission"
 +++
+Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imint) nyemission inför planerad notering på AktieTorget. Teckningstiden löper från och med den 2 november till och med den 17 november 2015. Fulltecknad emission tillför Imint 23 MSEK före emissionskostnader varav 3,2 MSEK i form av kvittning av lån från huvudägarna. Imint har erhållit teckningsförbindelser om 10 MSEK, motsvarande drygt 43 % av emissionsvolymen.
+
+# Pressmeddelande
+[Teckningstid inleds för Imints nyemission, 2-17 november](/invest/Pressmeddelande Imint 2 nov 2015 - Teckningstid inleds.pdf)
+
 # Imints noteringsmemorandum
 [Memorandum](/invest/Imint_Memorandum_ver20151028_final.pdf)
 
