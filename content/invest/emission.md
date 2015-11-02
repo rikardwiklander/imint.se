@@ -18,6 +18,7 @@ Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imin
 # Ytterligare information
 * [Redeye](http://beta.redeye.se/transactions/imint): För information från vår finansiella rådgivare
 * [AktieTorget](http://www.aktietorget.se/Instrument.aspx?ID_Company=413): Imints IR-sida hos AktieTorget
+* [Nordnet](https://www.nordnet.se/kampanjer/ipo/imint.html): Kunder i Nordnet kan teckna sig direkt på deras sida
 
 # Video om nyemissionen
 {{< video "/invest/emission/Imint-2015-720p" >}}
