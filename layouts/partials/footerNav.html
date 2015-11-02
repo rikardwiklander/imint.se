@@ -1,0 +1,25 @@
+<nav id="footerNav">
+	<main>
+		<section>
+			<h3>Navigering</h3>
+			{{ partial "menu.html" .Site.Menus.main }}
+		</section>
+		<section>
+			<h3><a href="/nyheter/">Nyheter</a></h3>
+			{{ range first 5 .Site.Sections.nyheter.Pages.ByDate.Reverse }}
+				<h5><a href="{{ .RelPermalink }}">{{ .Title }}</a></h5>
+			{{ end }}
+		</section>
+		<section>
+			<h3><a href="/om/adress/">Kontakt</a></h3>
+			<h5>Postadress</h5>
+			<p>S:t Larsgatan 5, 2 tr</p>
+			<p>753 11 Uppsala Sverige</p>
+			<h5>Telefon</h5>
+			<p>+46 18 474 99 90</p>
+			<h5>Epost</h5>
+			<p><a href="mailto:info@imint.se">info@imint.se</a></p>
+		</section>
+	</main>
+</nav>
+<div class="clear"></div>
