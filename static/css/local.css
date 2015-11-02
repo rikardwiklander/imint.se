@@ -35,7 +35,7 @@ nav.pagination {
 nav.pagination > main {
 	margin-right: auto;
 	margin-left: auto;
-	max-width: 13em;
+	width: 21.9em;
 }
 @media only screen and (min-width: 52em) {
 	body > header {
