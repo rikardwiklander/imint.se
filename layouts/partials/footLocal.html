@@ -10,17 +10,17 @@
 		if($(window).width() > 831) {
 			$(window).scroll(function(e) {
 				$('#top').removeClass('no-animation');
-				$('#nav').removeClass('no-animation');
+				$('#head-nav').removeClass('no-animation');
 				$('body > main').removeClass('no-animation');
 				$('body > header > a > img').removeClass('no-animation');
 				if($(document).scrollTop() > 0) {
 					$('#top').addClass('scrolledDown');
-					$('#nav').addClass('scrolledDown');
+					$('#head-nav').addClass('scrolledDown');
 					$('body > main').addClass('scrolledDown');
 				}
 				else {
 					$('#top').removeClass('scrolledDown');
-					$('#nav').removeClass('scrolledDown');
+					$('#head-nav').removeClass('scrolledDown');
 					$('body > main').removeClass('scrolledDown');
 				}
 			});

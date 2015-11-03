@@ -135,7 +135,7 @@ nav#footerNav h3 > a:hover {
 		animation-name: scaleUpHeaderImage;
 		animation-duration: 1s;
 	}
-	body > nav#nav {
+	body > nav#head-nav {
 		position: fixed !important;
 		top: 0;
 		left: 0;
@@ -149,38 +149,6 @@ nav#footerNav h3 > a:hover {
 		animation-name: increaseMarginMain;
 		animation-duration: 1s;
 	}
-	@keyframes scaleDownHeader {
-		from {transform: scaleY(1);top: 0;}
-		to {transform: scaleY(0.65);top: -28px;}
-	}
-	@keyframes scaleDownHeaderImage {
-		from {transform: scaleX(1);}
-		to {transform: scaleX(0.65);}
-	}
-	@keyframes reduceMarginNav {
-		from {margin-top: 160px;}
-		to {margin-top: 104px;}
-	}
-	@keyframes reduceMarginMain {
-		from {margin-top: 192px;}
-		to {margin-top: 136px;}
-	}
-	@keyframes scaleUpHeader {
-		from {transform: scaleY(0.65);top: -28px;}
-		to {transform: scaleY(1);top: 0;}
-	}
-	@keyframes scaleUpHeaderImage {
-		from {transform: scaleX(0.65);}
-		to {transform: scaleX(1);}
-	}
-	@keyframes increaseMarginNav {
-		from {margin-top: 104px;}
-		to {margin-top: 160px;}
-	}
-	@keyframes increaseMarginMain {
-		from {margin-top: 136px;}
-		to {margin-top: 192px;}
-	}
 	header.scrolledDown {
 		transform: scaleY(0.65);
 		top: -28px;
@@ -192,7 +160,7 @@ nav#footerNav h3 > a:hover {
 		animation-name: scaleDownHeaderImage;
 		animation-duration: 1s;
 	}
- 	nav#nav.scrolledDown{
+ 	nav#head-nav.scrolledDown{
 		margin-top: 104px;
 		animation-name: reduceMarginNav;
 		animation-duration: 1s;
