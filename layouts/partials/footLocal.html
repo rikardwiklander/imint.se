@@ -1,5 +1,4 @@
 <script>
-var isHeaderSmall = false;
 	$(document).ready(function() {
 		(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
 		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -10,24 +9,19 @@ var isHeaderSmall = false;
 
 		if($(window).width() > 831) {
 			$(window).scroll(function(e) {
-				animationTime = 1000;
-				if($(document).scrollTop() > 0 && !isHeaderSmall) {
-					isHeaderSmall = true;
-					$('#top').stop();
-					$('#nav').stop();
-					$('body > main').stop();
-					$('#top').animate({height: '100px'}, animationTime);
-					$('#nav').animate({marginTop: '100px'}, animationTime);
-					$('body > main').animate({marginTop: '132px'}, animationTime);
+				$('#top').removeClass('no-animation');
+				$('#nav').removeClass('no-animation');
+				$('body > main').removeClass('no-animation');
+				$('body > header > a > img').removeClass('no-animation');
+				if($(document).scrollTop() > 0) {
+					$('#top').addClass('scrolledDown');
+					$('#nav').addClass('scrolledDown');
+					$('body > main').addClass('scrolledDown');
 				}
-				else if($(document).scrollTop() <= 0 && isHeaderSmall) {
-					isHeaderSmall = false;
-					$('#top').stop();
-					$('#nav').stop();
-					$('body > main').stop();
-					$('#top').animate({height: '160px'}, animationTime);
-					$('#nav').animate({marginTop: '160px'}, animationTime);
-					$('body > main').animate({marginTop: '192px'}, animationTime);
+				else {
+					$('#top').removeClass('scrolledDown');
+					$('#nav').removeClass('scrolledDown');
+					$('body > main').removeClass('scrolledDown');
 				}
 			});
 		}
