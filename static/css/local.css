@@ -150,59 +150,55 @@ nav#footerNav h3 > a:hover {
 		animation-duration: 1s;
 	}
 	@keyframes scaleDownHeader {
-		from {-ms-transform: scaleY(1);-webkit-transform: scaleY(1);transform: scaleY(1);top: 0;}
-		to {-ms-transform: scaleY(0.5);-webkit-transform: scaleY(0.5);transform: scaleY(0.5);top: -41px;}
+		from {transform: scaleY(1);top: 0;}
+		to {transform: scaleY(0.65);top: -28px;}
 	}
 	@keyframes scaleDownHeaderImage {
-		from {-ms-transform: scaleX(1);-webkit-transform: scaleX(1);transform: scaleX(1);}
-		to {-ms-transform: scaleX(0.5);-webkit-transform: scaleX(0.5);transform: scaleX(0.5);}
+		from {transform: scaleX(1);}
+		to {transform: scaleX(0.65);}
 	}
 	@keyframes reduceMarginNav {
 		from {margin-top: 160px;}
-		to {margin-top: 79px;}
+		to {margin-top: 104px;}
 	}
 	@keyframes reduceMarginMain {
 		from {margin-top: 192px;}
-		to {margin-top: 111.4px;}
+		to {margin-top: 136px;}
 	}
 	@keyframes scaleUpHeader {
-		from {-ms-transform: scaleY(0.5);-webkit-transform: scaleY(0.5);transform: scaleY(0.5);top: -41px;}
-		to {-ms-transform: scaleY(1);-webkit-transform: scaleY(1);transform: scaleY(1);top: 0;}
+		from {transform: scaleY(0.65);top: -28px;}
+		to {transform: scaleY(1);top: 0;}
 	}
 	@keyframes scaleUpHeaderImage {
-		from {-ms-transform: scaleX(0.5);-webkit-transform: scaleX(0.5);transform: scaleX(0.5);}
-		to {-ms-transform: scaleX(1);-webkit-transform: scaleX(1);transform: scaleX(1);}
+		from {transform: scaleX(0.65);}
+		to {transform: scaleX(1);}
 	}
 	@keyframes increaseMarginNav {
-		from {margin-top: 79px;}
+		from {margin-top: 104px;}
 		to {margin-top: 160px;}
 	}
 	@keyframes increaseMarginMain {
-		from {margin-top: 111.4px;}
+		from {margin-top: 136px;}
 		to {margin-top: 192px;}
 	}
 	header.scrolledDown {
-		-ms-transform: scaleY(0.5);
-		-webkit-transform: scaleY(0.5);
-		transform: scaleY(0.5);
-		top: -41px;
+		transform: scaleY(0.65);
+		top: -28px;
 		animation-name: scaleDownHeader;
 		animation-duration: 1s;
 	}
 	header.scrolledDown > a > img {
-		-ms-transform: scaleX(0.5);
-		-webkit-transform: scaleX(0.5);
-		transform: scaleX(0.5);
+		transform: scaleX(0.65);
 		animation-name: scaleDownHeaderImage;
 		animation-duration: 1s;
 	}
  	nav#nav.scrolledDown{
-		margin-top: 79px;
+		margin-top: 104px;
 		animation-name: reduceMarginNav;
 		animation-duration: 1s;
 	}
 	body > main.scrolledDown {
-		margin-top: 111.4px;
+		margin-top: 136px;
 		animation-name: reduceMarginMain;
 		animation-duration: 1s;
 	}
