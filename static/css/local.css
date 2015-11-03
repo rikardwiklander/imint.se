@@ -4,7 +4,7 @@ body > header {
 body {
 	background: #d8dfe5;
 	background: linear-gradient(#d8dfe5, #dfe5e9) fixed;
-	padding-bottom: 18.8em;
+	padding-bottom: 38.8em;
 }
 body > main > section > article {
 	background-color: #dfe5e9;
@@ -52,8 +52,6 @@ nav#footerNav > main {
 	max-width: 52em;
 }
 nav#footerNav > main > section {
-	height: 16em;
-	float: left;
 	background-color: #668098;
 	color: #c9d3da;
 }
@@ -62,26 +60,40 @@ nav#footerNav > main > section > ul {
 	margin: 0;
 	padding: 0;
 }
+nav#footerNav > main > section > h3 {
+	margin-top: 0;
+	margin-bottom: 0;
+}
 nav#footerNav > main > section > ul > li > ul {
 	display: none;
 }
 nav#footerNav > main > section:nth-of-type(1) {
-	width: 10em;
+	height: 11em;
+	width: 100%;
+	box-sizing: border-box;
 	padding-left: 1em;
+	border-bottom: 2px solid #7a91a6;
 }
 nav#footerNav > main > section:nth-of-type(2) {
-	width: 30em;
+	height: 11em;
+	width: 100%;
+	box-sizing: border-box;
+	padding-left: 1em;
+	border-bottom: 2px solid #7a91a6;
 }
 nav#footerNav > main > section:nth-of-type(3) {
-	width: 10em;
-	padding-right: 1em;
+	height: 14em;
+	width: 100%;
+	box-sizing: border-box;
+	padding-left: 1em;
 }
 nav#footerNav > main > section > h5,
 nav#footerNav > main > section > ul > li,
 nav#footerNav > main > section > p {
 	font-size: 0.9em;
-	margin-top: 7px;
-	margin-bottom: 7px;
+	margin-top: 0;
+	margin-bottom: 0;
+	padding-top: 6px;
 }
 nav#footerNav a,
 nav#footerNav a:link,
@@ -148,5 +160,36 @@ nav#footerNav h3 > a:hover {
 		font-style: italic;
 		font-weight: normal;
 		margin-bottom: 0.3em;
+	}
+	nav#footerNav > main > section:nth-of-type(1) {
+		width: 10em;
+		box-sizing: content-box;
+		padding-left: 1em;
+		border-bottom: 0;
+		height: 16em;
+	}
+	nav#footerNav > main > section:nth-of-type(2) {
+		width: 30em;
+		box-sizing: content-box;
+		padding: 0;
+		border-bottom: 0;
+		height: 16em;
+	}
+	nav#footerNav > main > section:nth-of-type(3) {
+		width: 10em;
+		box-sizing: content-box;
+		padding-right: 1em;
+		padding-left: 0;
+		height: 16em;
+	}
+	nav#footerNav > main > section {
+		float: left;
+	}
+	nav#footerNav > main > section > h3 {
+		margin-top: 1em;
+		margin-bottom: 1em;
+	}
+	body {
+		padding-bottom: 18.8em;
 	}
 }
