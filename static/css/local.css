@@ -15,3 +15,6 @@ body > main > section > article {
 .nav-btn:hover, .nav-btn:focus {
 	opacity: 0.8;
 }
+nav.pagination {
+	background-color: #dfe5e9;
+}
