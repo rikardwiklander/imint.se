@@ -1,7 +1,7 @@
 +++
 title = "Pågående nyemission"
 date = 2015-10-14T00:00:00Z
-weight = 30
+weight = 10
 [menu.main]
 parent = "Investor relations"
 name = "Nyemission"
