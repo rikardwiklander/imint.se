@@ -1,7 +1,7 @@
 +++
 title = "Ägare"
 date = 2015-10-14T00:00:00Z
-weight = 30
+weight = 40
 [menu.main]
 parent = "Investor relations"
 name = "Ägare"
