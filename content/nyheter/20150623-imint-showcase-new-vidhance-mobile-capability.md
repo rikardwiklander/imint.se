@@ -1,4 +1,4 @@
-0---
+---
 date: 2015-06-23T12:37:25+02:00
 location: "Uppsala, Sweden"
 title: "Imint Showcase New Vidhance Mobile Capability - Live Autozoom Enables Consumers to Capture Powerful Videos"
