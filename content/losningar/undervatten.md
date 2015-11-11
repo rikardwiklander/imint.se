@@ -1,7 +1,7 @@
 +++
 title = "Undervattensfarkoster"
 date = 2015-10-14T00:00:00Z
-image = "uwROV.png"
+image = "uwROV.jpg"
 weight = 60
 [menu.main]
 parent = "Lösningar"
