@@ -1,6 +1,6 @@
 +++
 title = "Proffsresultat för alla"
 weight = 85
-background = "../Director_of_Photography_for_IMAX_3D_movie_Hidden_Universe,_Malcolm_Ludgate,_filming.jpg"
+background = "../imax_3d_movie.jpg"
 backgroundCopyright = "Photo by: Lisa Germany/ESO"
 +++
