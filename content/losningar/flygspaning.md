@@ -1,7 +1,7 @@
 +++
 title = "Flygspaning"
 date = 2015-10-14T00:00:00Z
-image = "uavLaunch.png"
+image = "uavLaunch.jpg"
 weight = 50
 [menu.main]
 parent = "Lösningar"
