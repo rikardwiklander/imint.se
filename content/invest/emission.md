@@ -10,10 +10,10 @@ Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imin
 
 # Information om nyemissionen
 
-* [Pressmeddelande](/invest/Pressmeddelande Imint 2 nov 2015 - Teckningstid inleds.pdf), Teckningstid inleds för Imints nyemission, 2-17 november
-* [Imints noteringsmemorandum](/invest/Imint_Memorandum_ver20151028_final.pdf)
-* [Teaser](/invest/Imint_Teaser_final.pdf), en kortversion av noteringsmemorandumet
-* [Anmälningssedel](/invest/imint-ipo-anmalningssedel.pdf)
+* [Pressmeddelande](pressmeddelande-imint-2-nov-2015-teckningstid-inleds.pdf), Teckningstid inleds för Imints nyemission, 2-17 november
+* [Imints noteringsmemorandum](imint-memorandum-final.pdf)
+* [Teaser](imint-teaser-final.pdf), en kortversion av noteringsmemorandumet
+* [Anmälningssedel](imint-ipo-anmalningssedel.pdf)
 
 # Ytterligare information
 * [Redeye](http://beta.redeye.se/transactions/imint): För information från vår finansiella rådgivare
@@ -21,10 +21,10 @@ Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imin
 * [Nordnet](https://www.nordnet.se/kampanjer/ipo/imint.html): Kunder i Nordnet kan teckna sig direkt på deras sida
 
 # Video om nyemissionen
-{{< video "/invest/emission/Imint-2015-720p" >}}
+{{< video "imint-2015-720p" >}}
 
 # Kortare video om nyemissionen
-{{< video "/invest/emission/Imint-2015-short-720p" >}}
+{{< video "imint-2015-short-720p" >}}
 
 # Frågor
 Vid frågor kring emissionen, använd nedanstående formulär:

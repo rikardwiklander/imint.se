@@ -7,9 +7,9 @@ parent = "Investor relations"
 name = "Årsrapporter"
 +++
 # Årsredovisningar
-[Årsredovisning 2014](/invest/imint_arsredovisning_2014.pdf)
+[Årsredovisning 2014](/invest/imint-arsredovisning-2014.pdf)
 
-[Årsredovisning 2013](/invest/imint_arsredovisning_2013.pdf)
+[Årsredovisning 2013](/invest/imint-arsredovisning-2013.pdf)
 
 # Flerårsöversikt
-[Imints flerårsöversikt](/invest/imint_flerarsoversikt.pdf)
+[Imints flerårsöversikt](/invest/imint-flerarsoversikt.pdf)
