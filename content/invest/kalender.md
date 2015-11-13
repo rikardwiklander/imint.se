@@ -7,6 +7,8 @@ parent = "Investor relations"
 name = "Kalendarium"
 +++
 
+Välkomna på våra aktieträffar! VD Andreas Lifvendahl presenterar Imint och svarar på frågor. En video från träffen i Göteborg 3 nov går att nå under fliken [Nyheter](/nyheter).
+
 |   Datum       |   Tid           |   Plats      |   Adress       
 |---------------|:---------------:|:------------:|-------------------------------|                   
 |   20 okt      |   18:00-20:00   |   Lund       |   Elite Hotel Ideon, Scheelevägen 27                    
