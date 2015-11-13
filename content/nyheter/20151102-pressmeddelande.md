@@ -5,4 +5,4 @@ location = "Stockholm"
 +++
 Teckningstid inleds i Imints emission inför planerad notering på AktieTorget
 <!--more-->
-[Pressmeddelande 2 november](/invest/Pressmeddelande Imint 2 nov 2015 - Teckningstid inleds.pdf)
+[Pressmeddelande 2 november](pressmeddelande-imint-2-nov-2015-teckningstid-inleds.pdf)
