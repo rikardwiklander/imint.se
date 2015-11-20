@@ -9,10 +9,11 @@ Imint är ett bolag som föddes ur två entreprenörers forskning vid Uppsala un
 
 Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
 
-Den 2 november 2015, inleds teckningstiden i Imint Image Intelligence AB:s (Imint) nyemission inför planerad notering på AktieTorget. Teckningstiden löper från och med den 2 november till och med den 17 november 2015. Se mer och anmäl ditt intresse under fliken [Nyemission](/invest/emission).
+_Teckningstiden är nu avslutad_
 
 
 ## Relaterade nyheter
+* [Teckningstid avslutad i Imint - nyemissionen blev kraftigt övertecknad](http://www.aktietorget.se/NewsItem.aspx?ID=75952): Aktietorget 2015-11-20
 * [Andreas Lifvendahl intervjuas av Aktiespararna i deras serie "Analysguiden"](http://www.aktiespararna.se/analysguiden/Hitta-Bolag/IT/Imint/Intervjuer/2015/VD-intervju-Imint/): Aktiespararna 2015-11-11
 * [Video från aktiepresentationen i Göteborg](https://redeye.solidtango.com/widgets/embed/vw555bh5?auto_play=false&rel=1): Redeye 2015-11-03
 * [Placera skriver om Imint](https://www.avanza.se/placera/redaktionellt/2015/11/02/vi-ar-i-en-klassisk-hajpfas-for-dronare.plc.html): Placera 2015-11-02
