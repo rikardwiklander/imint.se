@@ -9,14 +9,21 @@ Imint är ett bolag som föddes ur två entreprenörers forskning vid Uppsala un
 
 Just nu expanderar vi för att i snabbare takt möta de förfrågningar vi har från kunder. Det ger oss också möjligheten att faktiskt göra ett betydande avtryck, och förändra &mdash; ja, kanske upphäva &mdash; vad konsumenten tror är orubbliga begränsningar med mobil video.
 
-_Teckningstiden är nu avslutad_
+## Aktieinformation
 
+<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+<script type="text/javascript" src="/script/aktietorget.js"></script>
+<link rel="stylesheet" href="/css/aktietorget.css">
 
-## Relaterade nyheter
-* [Teckningstid avslutad i Imint - nyemissionen blev kraftigt övertecknad](http://www.aktietorget.se/NewsItem.aspx?ID=75952): Aktietorget 2015-11-20
-* [Andreas Lifvendahl intervjuas av Aktiespararna i deras serie "Analysguiden"](http://www.aktiespararna.se/analysguiden/Hitta-Bolag/IT/Imint/Intervjuer/2015/VD-intervju-Imint/): Aktiespararna 2015-11-11
-* [Video från aktiepresentationen i Göteborg](https://redeye.solidtango.com/widgets/embed/vw555bh5?auto_play=false&rel=1): Redeye 2015-11-03
-* [Placera skriver om Imint](https://www.avanza.se/placera/redaktionellt/2015/11/02/vi-ar-i-en-klassisk-hajpfas-for-dronare.plc.html): Placera 2015-11-02
-* [Video av Imints presentation på Aktiedagen](http://aktiespararna.fnf.nu/player/#/74/626): Aktiespararna 2015-10-19
-* [Andreas Lifvendahls drönarbolag byter spår – går in på Aktietorget](http://breakit.se/artikel/1615/andreas-lifvendahls-dronarbolag-byter-spar-gar-in-pa-aktietorget): Breakit, 2015-10-16
-* [Uppsalabolaget som ska noteras: Vår teknik matchar Apples](http://www.va.se/nyheter/2015/10/15/uppsalabolaget-som-ska-noteras-var-teknik-matchar-apples/): Veckans Affärer, 2015-10-15
+<figure id="quotesTable"></figure>
+<figure id="lastPriceChart"></figure>
+
+<script>
+	appendQuotesTableTo("quotesTable");
+	drawLastPriceChart("lastPriceChart");
+</script>
+
+## Mer om aktien på aktietorget
+* [Översikt](http://aktietorget.se/Instrument.aspx?InstrumentID=SE0007692124)
+* [Nyckeltal](http://aktietorget.se/InstrumentKeyNumbers.aspx?InstrumentID=SE0007692124)
+* [Nyheter](http://aktietorget.se/InstrumentNews.aspx?InstrumentID=SE0007692124)

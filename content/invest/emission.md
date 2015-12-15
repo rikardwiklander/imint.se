@@ -2,6 +2,7 @@
 title = "Nyemissionen avslutad"
 date = 2015-10-14T00:00:00Z
 weight = 10
+draft = true
 [menu.main]
 parent = "Investor relations"
 name = "Nyemission"
