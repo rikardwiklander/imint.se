@@ -51,14 +51,14 @@ function appendQuotesTableTo(id) {
 		var data = event.target.response[0];
 		var element;
 		if (data) {
-			var tableData = [["+/-", data.DiffInMoney],
+			var tableData = [["+/-", data.DiffInMoney.toFixed(2)],
 							["%", data.DiffInPercent.toFixed(2)],
-							["Senast", data.LatestPrice],
-							["Högst", data.High],
-							["Lägst", data.Low],
+							["Senast", data.LatestPrice.toFixed(2)],
+							["Högst", data.High.toFixed(2)],
+							["Lägst", data.Low.toFixed(2)],
 							["Omsättning volym", data.Volume],
 							["Omsättning kr", data.Amount.toFixed()],
-							["Marknadsvärde mkr", data.MarketValue]];
+							["Marknadsvärde mkr", data.MarketValue.toFixed()]];
 			element = createTable(tableData, "Just nu");
 		}
 		else {
@@ -128,7 +128,7 @@ function drawLastPriceChart(id) {
 							chartData.addRow([new Date(data[i].TradeDate), data[i].LastPrice]);
 						}
 						var options = {
-							"title": "Slutpris per dag",
+							"title": "Slutkurs per dag",
 							"height": "300",
 							"legend": { "position": "none" },
 							"hAxis": { "format": "yyyy-M-dd" }
