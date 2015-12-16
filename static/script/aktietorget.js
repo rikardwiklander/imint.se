@@ -95,21 +95,31 @@ function appendDealsTableTo(id) {
 		appendElementById(id, element);
 	});
 }
+function getDateString(date) {
+	var year = date.getFullYear().toString();
+	var month = ("0" + (date.getMonth()+1).toString()).slice(-2);
+	var dayOfMonth = ("0" + date.getDate().toString()).slice(-2);
+	return year + "-" + month + "-" + dayOfMonth;
+}
 function drawLastPriceChart(id) {
 	google.load('visualization', '1.0', {'packages':['corechart']});
 	google.setOnLoadCallback(drawPriceOverTimeChart);
 	function drawPriceOverTimeChart() {
 		sendAjaxRequest("http://json.aktietorget.se/dealsummary.json?id="+ISIN, function(event) {
 			var data = event.target.response;
-			var date = new Date();
-			date.setDate(date.getDate()-10);
-			var dateString = date.getFullYear().toString() + "-" + ("0" + date.getMonth().toString()).slice(-2) + "-" + ("0" + date.getDay().toString()).slice(-2);
+			var date = new Date(data[data.length-1].TradeDate);
+			date.setDate(date.getDate()-1);
+			var dateString = getDateString(date);
 			sendAjaxRequest("http://json.aktietorget.se/dealsummary.json?id="+ISIN+"&DateFrom=" + dateString, function(event) {
-				data = data.concat(event.target.response);
-				date.setDate(date.getDate()-10);
-				dateString = date.getFullYear().toString() + "-" + ("0" + date.getMonth().toString()).slice(-2) + "-" + ("0" + date.getDay().toString()).slice(-2);
-				sendAjaxRequest("http://json.aktietorget.se/dealsummary.json?id="+ISIN+"&DateFrom=" + dateString, function(event) {
+				if (event.target.response.length > 0) {
 					data = data.concat(event.target.response);
+					date = new Date(event.target.response[event.target.response.length-1].TradeDate);
+					date.setDate(date.getDate()-1);
+					dateString = getDateString(date);
+				}
+				sendAjaxRequest("http://json.aktietorget.se/dealsummary.json?id="+ISIN+"&DateFrom=" + dateString, function(event) {
+					if (event.target.response.length > 0)
+						data = data.concat(event.target.response);
 					if (data.length > 0) {
 						var chartData = new google.visualization.DataTable();
 						chartData.addColumn("date", "Datum");
