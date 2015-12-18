@@ -8,8 +8,7 @@ Onsdagen den 16 december 2015 noterades Imint på [Aktietorget](https://www.akti
 Intresset var stort och det märks inte minst på aktiekursen. "Affärsidén har fått aktiemarknaden att bli vild av glädje" skriver [Dagens Industri](http://digital.di.se/artikel/videobolaget-imint-tokrusar-pa-borsen) <!--more-->
 
 – Responsen var ännu bättre än väntat, säger Andreas Lifvendahl, VD. Vi är naturligtvis glada att intresset är stort, och fortsätter arbetet med förnyad entusiasm.
-
-Nedan länkar vi till några artiklar om börspremiären:
+{{<img src="andreas-simon.jpg" caption="Andreas Lifvendahl (VD) och Simon Mika (CTO) vid börspremiären">}}Nedan länkar vi till några artiklar om börspremiären:
 
 - [Uppgång – UNT](http://www.uppgang.com/start/uppsalaforetag-borsnoterat-4026049.aspx)
 - [Avanza](https://www.avanza.se/placera/redaktionellt/2015/12/16/monsterrusning-i-premiaren.html)
