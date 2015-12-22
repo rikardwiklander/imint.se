@@ -14,4 +14,3 @@ Intresset var stort och det märks inte minst på aktiekursen. "Affärsidén har
 - [Avanza](https://www.avanza.se/placera/redaktionellt/2015/12/16/monsterrusning-i-premiaren.html)
 - [VA Finans](http://www.vafinans.se/aktier/nyheter/Hett-bolag-i-haussad-sektor-rusar-oever-200-procent-p%C3%A5-15-minuter-1000963474)
 - [Affärsvärlden](http://www.affarsvarlden.se/hem/nyheter/article3953395.ece)
-- [Redeye](http://www.redeye.se/aktiebloggen/imint-nasta-fingerprint)
