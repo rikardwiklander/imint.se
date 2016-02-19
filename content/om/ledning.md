@@ -13,14 +13,6 @@ Andreas har varit VD sedan 2012, efter att tidigare ha varit bolagets försäljn
 
 Läs mer på Andreas [LinkedIn-profil](http://www.linkedin.com/in/andreaslifvendahl).
 
-![simon_mika](simon_mika.jpg)
-
-# Simon Mika (född 1981) Teknisk chef
-Simon har varit CTO sedan 2012. Han har varit anställd på Imint sedan 2008 som senior projektledare och lett flera mjukvaruintegrationsprojekt. Simon har en civilingenjörsutbildning inom IT från Uppsala universitet, och har även erfarenhet som konsult inom mjukvaruutveckling.
-
-Läs mer på Simons [LinkedIn-profil](http://www.linkedin.com/in/simonmika).
-
-
 # Hans Richter (född 1949) CFO
 ![hans_richter](hans_richter.jpg)
 
