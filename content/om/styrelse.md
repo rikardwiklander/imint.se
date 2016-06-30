@@ -7,18 +7,25 @@ parent = "Om"
 name = "Styrelse"
 +++
 
-![gosta_franzen](gosta_franzen.jpg)
+![katarina_bonde](katarina-bonde-linkedin.jpg)
 
-# Gösta Franzen (född 1950) Styrelseordförande sedan 2015
-Gösta har en bred erfarenhet av M&A-affärer och utveckling av företag och organisationer. Gösta har innehaft ledande positioner på Capgemini och där ansvarat för P&L och försäljning samt M&A. Genom sitt arbete har Gösta lång erfarenhet av att arbeta mot globala kunder i en internationell miljö.
+# Katarina Bonde (född 1958) Styrelseordförande sedan maj 2016
+Katarina har varit knuten till Imint som rådgivare under den första tiden som noterat bolag. Hon är i dag styrelseledamot i bl.a. Fingerprint Cards, Mycronic och Micro Systemation och styrelseordförande i Opus Group och Propellerhead Software. Förutom dessa och andra engagemang i Sverige, har Katarina också engagemang i Silicon Valley-området och andra delar av det amerikanska näringslivet. Hon har haft roller som VD, styrelseordförande och VP of Sales för flera riskkapitalfinansierade företag i Seattle från 1992 till 2004.
 
-Gösta är även styrelseordförande i PÄAB, Professionell Ägarstyrning AB, och i The Amazing Society AB.
+[LinkedIn-profil] (https://www.linkedin.com/in/katarina-g-bonde-78b23)
 
+![henrik_sund](henrik-sund-linkedin.jpg)
+
+# Henrik Sund (född 1961) Styrelseledamot sedan maj 2016
+Henrik är Vice President Telia Company AB och har mångårig erfarenhet av IT- och telekommarknaden bl.a. från Telia Sonera, Nokia, Tieto och Cap Gemini. Henrik har bl. a varit ansvarig för Globala produkter och tjänster inom TeliaSonera Group. Henrik har såväl omfattande operativ erfarenhet som erfarenhet från olika styrelseuppdrag.
+
+[LinkedIn-profil] (https://se.linkedin.com/in/henrik-sund-7422905)
 
 # Hans Eriksson (född 1966) Styrelseledamot sedan september 2015
 ![hans_eriksson](hans_eriksson.jpg)Hans har en examen i Internationell ekonomi från Linköpings universitet. Hans har en bred operationell erfarenhet från utvecklings- och teknikföretag. Däribland som VD för Bambuser i ca 5 år, ansvarade för etableringen av MySpace på den nordiska marknaden samt som VD för Lunarstorm under 2 år. Hans har även över 10 års erfarenhet från den finansiella marknaden under 90-talet, b.la på HQ och Danske Bank. Han har även haft flera uppdrag åt riskkapitalbolag så som Atomico och Northzone. Hans jobbar idag som senior rådgivare åt teknik- och tillväxtföretag.
 
 Hans är även styrelseordförande i Bambuser AB och styrelseledamot i Frideborg Consulting AB.
+[LinkedIn-profil] (https://se.linkedin.com/in/hansferiksson)
 
 ![harald_klomp](harald_klomp_mindre.jpg)
 
