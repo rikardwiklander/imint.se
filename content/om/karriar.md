@@ -18,4 +18,9 @@ Våra internationella kunder och partners har höga förväntningar på oss och 
 
 Imint uppskattar olika typer av erfarenheter, bakgrunder och åsikter.
 
-Läs mer om våra öppningar och hur det är att jobba på Imint på vår [karriärsida](http://vidhance.com/career).
+# Vi söker just nu
+
+[Teknisk marknadsförare](/om/technical-marketing).
+[Senior utvecklare/ produktledare inom video](/om/senior-engineer).
+[Junior mjukvaruutvecklare/ produktintegratör](/om/juniorEngineer).
+[Forskningsingenjör inom video och signalanalys](/om/research-engineer).
