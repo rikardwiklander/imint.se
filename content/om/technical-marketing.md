@@ -63,7 +63,7 @@ Imint erbjuder rätt sökande en marknadsmässig lön, med kollektivavtalshärma
 # Processen:
 I den tillväxtfas som Imint är inne i sker rekrytering löpande. Till den här tjänsten kan vi komma att be om enklare arbetsprover och referensarbeten.
 
-Vi ber i första hand kandidater att använda vårt [webformulär](/om/apply/) vid ansökningar. Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand ställs per email till [career@vidhance.com](mailto:career@vidhance.com), eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
+Ansökningar med bifogat Curriculum Vitae och frågor om tjänsten eller rekryteringsprocessen skickas till [career@vidhance.com](mailto:career@vidhance.com). För juniora kandidater utan relevant arbetsklivserfarenhet, är en bifogad lista över akademiska meriter önskvärt.
 
 # Viktig info till rekryteringsfirmor : Important note to firms:
 Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. *Note: No firm solicitation*.
