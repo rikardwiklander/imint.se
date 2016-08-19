@@ -9,6 +9,10 @@ name = "Rapporter"
 # Rapporter
 [Kommande rapporter](https://www.aktietorget.se/Instrument.aspx?ID_Company=413)
 
+## Kvartalsrapporter
+
+[Q1 2016](/invest/imint-q1-2016.pdf)
+
 ## Bokslutskommunikér
 [Bokslutskommuniké 2015](/invest/Imint_kommunike_160229.pdf)
 
