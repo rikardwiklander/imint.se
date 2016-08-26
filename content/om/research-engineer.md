@@ -1,14 +1,10 @@
----
-title: "Forskningsingenjör inom video och signalanalys"
-date: 2015-07-21
-weight: 160
-type: "position"
-location: "Uppsala, Sverige"
-menu:
-    name: "Forskningsingenjör"
-    parent: "karriär"
-    weight: 40
----
++++
+title = "Forskningsingenjör inom video och signalanalys"
+date = 2015-07-21T00:00:00Z
+weight = 160
+type = "position"
+location = "Uppsala, Sverige"
++++
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på den mer långsiktiga utvecklingen, där tidiga idéer provas ut och undersöks. Erfarenhet av både forskningens innehåll inom bild/videobehandling och forskningens metodik är därför värdefull.<!--more--> Önskade erfarenheter listas nedan.
 
 # Kvalifikationer:

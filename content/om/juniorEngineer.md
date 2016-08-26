@@ -1,14 +1,10 @@
----
-title: "Junior mjukvaruutvecklare/ produktintegratör"
-date: 2015-07-21
-weight: 150
-location: "Uppsala, Sverige"
-type: "position"
-menu:
-    name: "Junior utvecklare"
-    parent: "karriär"
-    weight: 30
----
++++
+title = "Junior mjukvaruutvecklare/ produktintegratör"
+date = 2015-07-21T00:00:00Z
+weight = 150
+location = "Uppsala, Sverige"
+type = "position"
++++
 För denna roll värdesätts kvalitetsmedvetenhet, bra kommunikationsförmåga, och ett intresse av att stödja ingenjörer hos några av världens mest kända smartphonetillverkare i integrationsarbetet av vår mjukvara i deras telefoner.<!--more-->
 
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma.
