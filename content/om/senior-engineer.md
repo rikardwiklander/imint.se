@@ -1,14 +1,10 @@
----
-title: "Senior utvecklare/ produktledare inom video"
-date: 2015-07-21
-weight: 140
-type: "position"
-location: "Uppsala, Sverige"
-menu:
-    name: "Senior utvecklare"
-    parent: "karriär"
-    weight: 21
----
++++
+title = "Senior utvecklare/ produktledare inom video"
+date = 2015-07-21T00:00:00Z
+weight = 140
+type = "position"
+location = "Uppsala, Sverige"
++++
 För denna roll värdesätts kvalitetsmedvetenhet, erfarenhet av metoder för systematisk testning och kvalitetskontroll, och principer för effektivt produktunderhåll - i korthet erfarenhet av produktvård och produktledning för mjukvara.<!--more-->
 
 Hos Imint finns inga tydliga avdelningar och hårt ritade gränser. Vår uppgift är att omsätta innovativa idéer och forskningsnära kunskap till riktiga funktioner i var mans hand, och på kort tid. Denna roll har dock fokus på levererbara produkter och kundintegration. Imints mjukvara Vidhance Mobile integreras som mjukvarukomponenter direkt i kundens produkt (som till exempel en smartphone), och som en utökning till operativsystemets abstraktionslager för kamerahårdvara. I dagsläget stöds Android, men andra operativsystem kan komma.
