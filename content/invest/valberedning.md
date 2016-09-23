@@ -11,4 +11,4 @@ Imints valberedning ska, i enlighet med stämmobeslut, bestå av representanter 
 - Anna Söderholm, Almi Invest Östra Mellansverige AB
 - Mateo Santurio, Uppsala universitet Holding AB
 
-I valberedningen ingår också styrelsens ordförande, [Gösta Franzén](mailto:gosta.franzen@vidhance.com).
+I valberedningen ingår också styrelsens ordförande, [Katarina Bonde](mailto:katarina.bonde@vidhance.com).
