@@ -2,6 +2,7 @@
 title = ""
 date = 2016-04-29T00:00:00Z
 weight = 05
+draft = true
 [menu.main]
 parent = "Investor relations"
 name = "Bolagsstämma"
