@@ -20,7 +20,5 @@ Imint uppskattar olika typer av erfarenheter, bakgrunder och åsikter.
 
 # Vi söker just nu
 
-[Teknisk marknadsförare](/om/technical-marketing).
-[Senior utvecklare/ produktledare inom video](/om/senior-engineer).
-[Junior mjukvaruutvecklare/ produktintegratör](/om/juniorEngineer).
-[Forskningsingenjör inom video och signalanalys](/om/research-engineer).
+[Senior utvecklare](/om/senior-utvecklare)
+[Senior integrationsingenjör](/om/senior-integrationsingenjör)
