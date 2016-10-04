@@ -39,5 +39,10 @@ I listan nedan anger vi några punkter där sökande kan hitta en "spets", o
 - Erfarenhet av att utveckla för Android.
 - Personligt intresse av fotografi/videografik, datorgrafik, optik/kamerateknik, eller liknande.
 
-**Viktig info till rekryteringsfirmor : Important note to firms:**
-Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer. *Note: No firm solicitation*.
+## 5 ANSÖKAN
+Vi ber kandidater att skicka sin ansökan tillsammans med CV till [career@vidhance.com](mailto:career@vidhance.com). Vi ber också att frågor om tjänsten eller rekryteringsprocessen i första hand skickas till ovanstående mailadress, eftersom rekryterande chefer ofta är på resande fot i andra tidszoner.
+
+**Viktig info till rekryteringsfirmor:**
+Vi önskar ej bli kontaktade av rekryterings- eller outplacementföretag, utan enbart av ansökande individer.
+
+*Note: No firm solicitation*.
