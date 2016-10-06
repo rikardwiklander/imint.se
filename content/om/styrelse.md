@@ -7,7 +7,7 @@ parent = "Om"
 name = "Styrelse"
 +++
 
-![katarina_bonde](katarina-bonde-linkedin.jpg)
+![katarina_bonde](katarina-bonde.jpg)
 
 # Katarina Bonde (född 1958) Styrelseordförande sedan maj 2016
 Katarina har varit knuten till Imint som rådgivare under den första tiden som noterat bolag. Hon är i dag styrelseledamot i bl.a. Fingerprint Cards, Mycronic och Micro Systemation och styrelseordförande i Opus Group och Propellerhead Software. Förutom dessa och andra engagemang i Sverige, har Katarina också engagemang i Silicon Valley-området och andra delar av det amerikanska näringslivet. Hon har haft roller som VD, styrelseordförande och VP of Sales för flera riskkapitalfinansierade företag i Seattle från 1992 till 2004.
@@ -27,7 +27,7 @@ Henrik är Vice President Telia Company AB och har mångårig erfarenhet av IT- 
 Hans är även styrelseordförande i Bambuser AB och styrelseledamot i Frideborg Consulting AB.
 [LinkedIn-profil] (https://se.linkedin.com/in/hansferiksson)
 
-![harald_klomp](harald_klomp_mindre.jpg)
+![harald_klomp](harald_klomp.jpg)
 
 # Harald Klomp (född 1976) Styrelseledamot sedan 2012
 Harald grundade Imint 2008 tillsammans med en studiekamrat, Jakob Sandström, och var fram till slutet av 2012 dess VD. Han bedriver idag egen verksamhet från Aktiebolaget Uppsala Engineering Partner samt arbetar som CFO åt LeadCold AB. Harald är även styrelseledamot i Aktiebolaget Uppsala Engineering Partner, VisueCare AB och IMINT Partners AB. Harald har en M.Sc och B.B.A från Uppala universitet och National University of Singapore.
