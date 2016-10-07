@@ -21,4 +21,4 @@ Imint uppskattar olika typer av erfarenheter, bakgrunder och åsikter.
 # Vi söker just nu
 
 [Senior utvecklare](/om/senior-utvecklare)
-[Senior integrationsingenjör](/om/senior-integrationsingenjör)
+[Senior integrationsingenjör](/om/senior-integrationsingenjor)
