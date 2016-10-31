@@ -13,6 +13,7 @@ name = "Rapporter"
 
 [Q1 2016](/invest/imint-q1-2016.pdf)
 [Q2 2016](/invest/imint-q2-2016.pdf)
+[Q3 2016](/invest/imint-q3-2016.pdf)
 
 ## Bokslutskommunikér
 [Bokslutskommuniké 2015](/invest/Imint_kommunike_160229.pdf)
